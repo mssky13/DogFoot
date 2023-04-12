@@ -1,3 +1,5 @@
+import { useContext } from 'react';
+import { CardsContext } from '../../contexts/card-context';
 import { Card } from "../card";
 import "./styles.css";
 
